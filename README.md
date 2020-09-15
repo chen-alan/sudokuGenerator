@@ -1,2 +1,4 @@
-# sudokuGenerator
-A Sudoku puzzle generator - robust and reliable, though not many bells and whistles.
+# sudoku
+Goals
+-To generate random sudoku boards
+-To generate random sudoku puzzles
